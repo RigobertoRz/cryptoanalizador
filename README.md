@@ -23,13 +23,16 @@ Una herramienta en Python para analizar patrones del mercado de criptomonedas.
 2. Instala las dependencias:
 ```bash
 pip install -r requirements.txt
-
+```
 ##  USO
 python crypto_analyzer.py
 
 El programa:
-Obtiene los datos históricos
-Calcula los indicadores técnicos
-Identifica los patrones de trading
-Genera un reporte de análisis
-Muestra un gráfico interactivo
+- Obtiene los datos históricos
+- Calcula los indicadores técnicos
+- Identifica los patrones de trading
+- Genera un reporte de análisis
+- Muestra un gráfico interactivo
+
+![Crypto_analyzer](https://github.com/user-attachments/assets/01b0bac2-91ea-40c9-925d-3eefedb0bfc2)
+
